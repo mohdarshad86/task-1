@@ -1,0 +1,28 @@
+table {
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 0 8px;
+}
+
+th {
+    padding: 8px;
+}
+
+button {
+    display: flex;
+    margin-left: auto;
+    background-color: blue;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+input{
+    width: 300px;
+    border: none;
+    padding: 8px;
+}
