@@ -1,10 +1,12 @@
-React js frontend task - 1
+# React js frontend task - 1
 You should not use nodejs
 The project is simple html page with reactjs
 you should use
+```js
 <script src="https://unpkg.com/react@18/umd/react.development.js"
 crossorigin></script>
- <script src="https://unpkg.com/react-dom@18/umd/reactdom.development.js" crossorigin></script>
+<script src="https://unpkg.com/react-dom@18/umd/reactdom.development.js" crossorigin></script>
+```
 3. Reference for using reactjs in a html webpage
 https://reactjs.org/docs/add-react-to-a-website.html
 4. Please refer image , you have to create a simple html page with below
