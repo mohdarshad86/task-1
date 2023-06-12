@@ -24,7 +24,7 @@ function App() {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        console.log(onboardingCall.current.value);
+        // console.log(onboardingCall.current.value);
         const dataEnteries = {
             onboardingCall: onboardingCall.current.value,
             googleSearchConsoleAccess: googleSearchConsoleAccess.current.value,
@@ -45,8 +45,8 @@ function App() {
             indexLinks: indexLinks.current.value,
             videoRecap: videoRecap.current.value,
         }
+        console.log(dataEnteries);
     }
-        //    console.log(dataEnteries);
         //Now the input data is available in dataEnteries Object and the data is ready to post to API
         return (
             <div>
