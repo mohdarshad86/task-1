@@ -15,3 +15,8 @@ mentioned content in either table format or div format
 to post to API ( to any database )
 Backend is not needed but the frontend data should be ready to post
 to api 
+
+### Screenshots
+
+![Alt text](<task - 1 home.png>)
+![Alt text](<task - 1 enteries.png>)
